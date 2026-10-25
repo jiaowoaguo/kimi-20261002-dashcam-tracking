@@ -1,0 +1,15 @@
+{
+  "segment_s": [
+    250.0,
+    300.0
+  ],
+  "vehicles_moving_in_lane": 136,
+  "excluded_oncoming_zone": 198,
+  "ignored_too_far": 200,
+  "excluded_parked_or_short": 157,
+  "nev_green": 35,
+  "fuel_blue": 24,
+  "yellow": 0,
+  "unknown_color": 77,
+  "elapsed_s": 173.0
+}
